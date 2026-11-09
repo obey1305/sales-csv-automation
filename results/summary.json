@@ -1,0 +1,11 @@
+{
+  "input_files": 5,
+  "input_rows": 60,
+  "clean_rows": 50,
+  "duplicate_rows": 6,
+  "flagged_rows": 4,
+  "total_sales_inr": "59381.00",
+  "currency": "INR",
+  "grain": "one row per order",
+  "sales_definition": "quantity * unit_price; excludes tax, shipping, discounts and refunds"
+}

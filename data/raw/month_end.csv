@@ -1,0 +1,13 @@
+﻿order_id,order_date,product,quantity,unit_price,currency,channel
+ORD-1041,13/10/2026, Ceramic Mug  ,2,249.00,INR,WEBSITE
+ORD-1042,2026-10-14,Canvas Tote,3,₹499.50,INR,Marketplace
+ORD-1042,2026-10-14, Canvas Tote  ,3,499.50,INR,MARKETPLACE
+ORD-1033,05/10/2026,Desk Mat,3,"₹1,299.00",INR,Website
+ORD-1043,2026-10-15, Desk Mat  ,1,1299.00,INR,WEBSITE
+ORD-1044,2026-10-16,Notebook,2,₹179.00,INR,Marketplace
+ORD-1045,17/10/2026, Water Bottle  ,3,699.00,INR,WEBSITE
+ORD-1046,2026-10-18,Ceramic Mug,1,₹249.00,INR,Marketplace
+ORD-1047,2026-10-19, Canvas Tote  ,2,499.50,INR,WEBSITE
+ORD-1048,20/10/2026,Desk Mat,3,"₹1,299.00",INR,Marketplace
+ORD-1049,2026-10-21, Notebook  ,1,179.00,INR,WEBSITE
+ORD-1050,2026-10-22,Water Bottle,2,₹699.00,INR,Marketplace

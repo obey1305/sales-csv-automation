@@ -1,0 +1,7 @@
+﻿order_id,order_date,product,quantity,unit_price,currency,channel,sales_inr,source_file,source_row,issues
+ORD-1002,2026-10-02,Canvas Tote,2,499.50,INR,marketplace,999.00,week_01.csv,4,duplicate normalized order; kept first source
+ORD-1005,2026-10-05,Water Bottle,2,699.00,INR,website,1398.00,week_02.csv,4,duplicate normalized order; kept first source
+ORD-1013,2026-10-13,Desk Mat,1,1299.00,INR,website,1299.00,week_03.csv,4,duplicate normalized order; kept first source
+ORD-1023,2026-10-23,Desk Mat,2,1299.00,INR,website,2598.00,week_04.csv,4,duplicate normalized order; kept first source
+ORD-1033,2026-10-05,Desk Mat,3,1299.00,INR,website,3897.00,week_04.csv,5,duplicate normalized order; kept first source
+ORD-1042,2026-10-14,Canvas Tote,3,499.50,INR,marketplace,1498.50,month_end.csv,4,duplicate normalized order; kept first source

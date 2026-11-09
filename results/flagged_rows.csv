@@ -1,0 +1,5 @@
+﻿order_id,order_date,product,quantity,unit_price,currency,channel,source_file,source_row,issues
+,2026-10-01, Ceramic Mug  ,1,249.00,INR,WEBSITE,week_01.csv,6,missing order_id
+ORD-ERR-2,31/02/2026, Ceramic Mug  ,1,249.00,INR,WEBSITE,week_02.csv,6,invalid date; expected YYYY-MM-DD or DD/MM/YYYY
+ORD-ERR-3,2026-10-01, Ceramic Mug  ,,249.00,INR,WEBSITE,week_03.csv,6,quantity must be a whole number from 1 to 100000
+ORD-ERR-4,2026-10-01, Ceramic Mug  ,1,unknown,INR,WEBSITE,week_04.csv,6,invalid INR price; use a nonnegative amount with at most two decimals
